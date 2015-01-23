@@ -1,0 +1,84 @@
+2015-01-22 16:34:14,885 - [INFO] - from play in pool-4-thread-3 
+Listening for HTTP on /0:0:0:0:0:0:0:0:9000
+
+2015-01-22 16:34:20,880 - [INFO] - from play in play-internal-execution-context-1 
+Application started (Dev)
+
+2015-01-22 16:34:23,514 - [DEBUG] - from application in KafkaClients-akka.actor.default-dispatcher-4 
+{ "event": "page viewed" }
+
+2015-01-22 16:34:23,888 - [DEBUG] - from application in KafkaClients-akka.actor.default-dispatcher-4 
+{ "event": "page viewed" }
+
+2015-01-22 16:34:24,980 - [DEBUG] - from application in KafkaClients-akka.actor.default-dispatcher-4 
+{ "event": "page viewed" }
+
+2015-01-22 16:34:25,575 - [DEBUG] - from application in KafkaClients-akka.actor.default-dispatcher-4 
+{ "event": "page viewed" }
+
+2015-01-22 16:34:25,766 - [DEBUG] - from application in KafkaClients-akka.actor.default-dispatcher-4 
+{ "event": "page viewed" }
+
+2015-01-22 16:34:25,968 - [DEBUG] - from application in KafkaClients-akka.actor.default-dispatcher-4 
+{ "event": "page viewed" }
+
+2015-01-22 16:34:26,138 - [DEBUG] - from application in KafkaClients-akka.actor.default-dispatcher-4 
+{ "event": "page viewed" }
+
+2015-01-22 16:34:26,295 - [DEBUG] - from application in KafkaClients-akka.actor.default-dispatcher-4 
+{ "event": "page viewed" }
+
+2015-01-22 16:34:26,464 - [DEBUG] - from application in KafkaClients-akka.actor.default-dispatcher-4 
+{ "event": "page viewed" }
+
+2015-01-22 16:34:26,633 - [DEBUG] - from application in KafkaClients-akka.actor.default-dispatcher-4 
+{ "event": "page viewed" }
+
+2015-01-22 16:34:26,825 - [DEBUG] - from application in KafkaClients-akka.actor.default-dispatcher-4 
+{ "event": "page viewed" }
+
+2015-01-22 16:34:27,960 - [DEBUG] - from application in KafkaClients-akka.actor.default-dispatcher-4 
+{ "event": "page viewed" }
+
+2015-01-22 16:34:28,319 - [DEBUG] - from application in KafkaClients-akka.actor.default-dispatcher-4 
+{ "event": "page viewed" }
+
+2015-01-22 16:34:28,499 - [DEBUG] - from application in KafkaClients-akka.actor.default-dispatcher-4 
+{ "event": "page viewed" }
+
+2015-01-22 16:34:28,713 - [DEBUG] - from application in KafkaClients-akka.actor.default-dispatcher-4 
+{ "event": "page viewed" }
+
+2015-01-22 16:34:28,928 - [DEBUG] - from application in KafkaClients-akka.actor.default-dispatcher-4 
+{ "event": "page viewed" }
+
+2015-01-22 16:34:34,182 - [DEBUG] - from application in KafkaClients-akka.actor.default-dispatcher-4 
+{ "event": "page viewed" }
+
+2015-01-22 16:34:35,194 - [DEBUG] - from application in KafkaClients-akka.actor.default-dispatcher-4 
+{ "event": "page viewed" }
+
+2015-01-22 16:34:36,160 - [DEBUG] - from application in KafkaClients-akka.actor.default-dispatcher-4 
+{ "event": "page viewed" }
+
+2015-01-22 16:34:36,532 - [DEBUG] - from application in KafkaClients-akka.actor.default-dispatcher-4 
+{ "event": "page viewed" }
+
+2015-01-22 16:34:36,893 - [DEBUG] - from application in KafkaClients-akka.actor.default-dispatcher-4 
+{ "event": "page viewed" }
+
+2015-01-22 16:34:37,107 - [DEBUG] - from application in KafkaClients-akka.actor.default-dispatcher-4 
+{ "event": "page viewed" }
+
+2015-01-22 16:34:38,427 - [DEBUG] - from application in KafkaClients-akka.actor.default-dispatcher-4 
+{ "event": "page viewed" }
+
+2015-01-22 16:34:38,816 - [DEBUG] - from application in KafkaClients-akka.actor.default-dispatcher-4 
+{ "event": "page viewed" }
+
+2015-01-22 16:34:39,052 - [DEBUG] - from application in KafkaClients-akka.actor.default-dispatcher-4 
+{ "event": "page viewed" }
+
+2015-01-22 16:34:41,740 - [DEBUG] - from application in KafkaClients-akka.actor.default-dispatcher-4 
+{ "event": "page viewed" }
+

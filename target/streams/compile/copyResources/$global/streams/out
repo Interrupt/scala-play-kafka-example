@@ -1,0 +1,3 @@
+[debug] Copy resource mappings: 
+[debug] 	(/Users/chad.cuddigan/dev/simple-rest-scala/conf/application.conf,/Users/chad.cuddigan/dev/simple-rest-scala/target/scala-2.10/classes/application.conf)
+[debug] 	(/Users/chad.cuddigan/dev/simple-rest-scala/conf/routes,/Users/chad.cuddigan/dev/simple-rest-scala/target/scala-2.10/classes/routes)
